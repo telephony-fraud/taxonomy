@@ -746,7 +746,7 @@ exampleNodes = [
     {"type":"Benefits","id":513, "parent":"51","number":"1","name":"Reselling minutes"},// or service"},
     {"type":"Benefits","id":514, "parent":"51","number":"1","name":"Avoiding payment"},//" (totally or partially)"},
     {"type":"Benefits","id":515, "parent":"51","number":"1","name":"Earning free credits"},
-    {"type":"Benefits","id":53,"parent":"b","number":"1","name":"Annonymity"},//" for criminal activities"},
+    {"type":"Benefits","id":53,"parent":"b","number":"1","name":"Anonymity"},//" for criminal activities"},
     {"type":"Benefits","id":54,"parent":"b","number":"1","name":"Disrupting service"},
     {"type":"Benefits","id":55, "parent":"b","number":"1","name":"Influencing people"},
     {"type":"Benefits","id":56, "parent":"b","number":"1","name":"Privacy Invasion"},
